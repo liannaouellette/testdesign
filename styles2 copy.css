@@ -1,0 +1,36 @@
+* {
+    background-color: rgb(191, 223, 242);
+    margin: 5;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;;
+
+}
+
+.pic {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.clue {
+    padding-right: 10px;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    position: absolute;
+    top: 100px;
+    left: 590px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th {
+    border: 5px solid #787373;
+    text-align: left;
+    padding: 6px;
+  }
+
